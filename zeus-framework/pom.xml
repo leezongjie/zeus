@@ -26,6 +26,7 @@
     <modules>
         <module>zeus-core</module>
         <module>zeus-test</module>
+        <module>zeus-page</module>
     </modules>
 
     <dependencies>
